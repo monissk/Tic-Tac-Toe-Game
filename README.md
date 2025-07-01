@@ -19,7 +19,7 @@ Players take turns marking X and O.
 First to get 3 in a row (vertically, horizontally, or diagonally) wins.
 Use Restart to reset the board or New Game to begin again after a win/draw.
 
-Project Structure :
+📂 Project Structure :
 ├── index.html     # Game UI layout
 ├── style.css      # Styling and design
 ├── script.js      # Game logic and behavior
